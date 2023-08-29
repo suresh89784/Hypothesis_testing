@@ -1,3 +1,4 @@
-# Hypothesis_testing
-Hpyothesis testing
+# Different types of Hypothesis_testing
+
+
 
